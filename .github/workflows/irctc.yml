@@ -6,15 +6,15 @@ on:
   pull_request:
   workflow_dispatch:
     inputs:
-      USERNAME:
+      USERNAME:RS1075
         required: true
         type: string
         description: "Your IRCTC Username"
-      PASSWORD:
+      PASSWORD:Rsirctc@1075
         required: true
         type: string
         description: "Your IRCTC Password"
-      UPI_ID:
+      UPI_ID:amardeeps136@gmail.com
         required: true
         type: string
         description: "Your UPI ID To Make Payment From"
